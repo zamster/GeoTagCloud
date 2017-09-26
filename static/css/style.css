@@ -1,0 +1,32 @@
+/*
+    Style Sheet you might need
+*/
+
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+body {
+  padding-top: 80px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.preview {
+    background: #aaa;
+    color: black;
+    width: 100px;
+    height: 100px;
+    margin-top: 174px;
+    margin-left: 519px;
+    border-radius: 10px;
+}
